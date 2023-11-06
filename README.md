@@ -1,7 +1,8 @@
 # Bnanas E-commerce store
 
 ## Overview
-Bnanas is not just your average e-commerce platform. It's a vibrant marketplace designed for fruit enthusiasts and health-conscious consumers alike. Users can create an account through Auth0 or use their existing Google account and start browsing and adding items to their cart right away.  With a clean and minimalistic interface, Bnanas offers a seamless online shopping experience that enables you to indulge in the richness of nature's sweetest offerings.
+Bnanas is a vibrant marketplace designed for fruit enthusiasts and health-conscious consumers alike. Users can create an account through Auth0, or use their existing Google account, and start browsing and adding items to their cart right away. Once on their cart page, users can increase/decrease quantities and remove items, seeing the total cost of the cart being updated live. Afterwards, users can add order details and select from a variety of shipping options, before making their purchase.
+With a clean and minimalistic interface, Bnanas offers a seamless online shopping experience.
 
 
 
